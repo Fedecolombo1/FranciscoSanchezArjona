@@ -1,0 +1,61 @@
+.navbar{
+  justify-content: start !important;
+}
+
+header{
+  top: 0;
+  left: 0;
+  margin: 0 !important;
+  z-index: 1000;
+  height: 7vh;
+  box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+}
+
+.linksContainers{
+  justify-content: flex-end;
+}
+
+.linkHome{
+  justify-content: start;
+}
+
+.activeNav{
+  color: white
+}
+
+.nombre{
+    color: black !important;
+    font-size: 32px;
+    margin: 0;
+    text-align: center;
+    text-decoration: none !important;
+    font-family: 'Sen', sans-serif;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+button{
+  background: none;
+  border: none;
+  margin: 0;
+}
+
+.links{
+  margin: 0;
+}
+
+@media (min-width: 768px) {
+
+  .links{
+    color: black !important;
+    font-size: 18px;
+  }
+
+  .links:hover{
+    color: black !important;
+    font-size: 18px;
+  }
+
+}

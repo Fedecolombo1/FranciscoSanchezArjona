@@ -1,0 +1,19 @@
+.slick-prev:before,
+.slick-next:before {
+  color: black !important; /* Cambia "red" por el color deseado */
+}
+
+section{
+    margin-bottom: 10px;
+    padding: 0px 10%;
+    padding-top: 60px;
+}
+
+.leaflet-container {
+    height: 450px;
+    z-index: 0;
+}
+
+.iconos{
+    font-size: 25px;
+}
