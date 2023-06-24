@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/escalaReactWeb/static/css/main.9ff5ce46.css",
-    "main.js": "/escalaReactWeb/static/js/main.2e8be82d.js",
+    "main.js": "/escalaReactWeb/static/js/main.8c8d1064.js",
     "static/media/img3.jpg": "/escalaReactWeb/static/media/img3.72f1e1304e10670bfbd2.jpg",
     "static/media/img2.jpg": "/escalaReactWeb/static/media/img2.3642800ece6330d9dbf0.jpg",
     "static/media/img1.jpg": "/escalaReactWeb/static/media/img1.a84da8a5c7177a2d740b.jpg",
@@ -11,10 +11,10 @@
     "static/media/slick.woff": "/escalaReactWeb/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/escalaReactWeb/index.html",
     "main.9ff5ce46.css.map": "/escalaReactWeb/static/css/main.9ff5ce46.css.map",
-    "main.2e8be82d.js.map": "/escalaReactWeb/static/js/main.2e8be82d.js.map"
+    "main.8c8d1064.js.map": "/escalaReactWeb/static/js/main.8c8d1064.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff5ce46.css",
-    "static/js/main.2e8be82d.js"
+    "static/js/main.8c8d1064.js"
   ]
 }
