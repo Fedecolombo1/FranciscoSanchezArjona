@@ -1,14 +1,31 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Medium'
 }
 
-h1 { font-weight: 400 !important; }
-h2 { font-weight: 300 !important;}
-h3 { font-weight: 300 !important; }
-p { font-weight: 400; }
-p.thin { font-weight: 200; }
-p.ultralight { font-weight: 100; }
+h1 { 
+  font-family: 'ExtraBold';
+}
+
+h2 { 
+  font-family: 'Bold';
+}
+
+h3 { 
+  font-family: 'SemiBold';
+}
+
+p {
+  font-family: 'Medium' 
+}
+
+p.thin { 
+  font-family: 'Light'
+}
+
+p.ultralight {
+  font-family: 'Thin'
+}
 
 .Titulo{
   text-align: start;
@@ -74,4 +91,41 @@ a{
   .subTitulo{
       text-align: start;
   }
+}
+
+
+@font-face {
+  font-family: "Light";   
+  src: local("Jost-Light"),
+    url("/src/fonts/Jost-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Medium";  
+  src: local("Jost-Medium"),
+    url("/src/fonts/Jost-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SemiBold";  
+  src: local("Jost-SemiBold"),
+    url("/src/fonts/Jost-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Bold";  
+  src: local("Jost-Bold"),
+    url("/src/fonts/Jost-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Thin";  
+  src: local("Jost-Thin"),
+    url("/src/fonts/Jost-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "ExtraBold";  
+  src: local("Jost-ExtraBold"),
+    url("/src/fonts/Jost-ExtraBold.ttf") format("truetype");
 }

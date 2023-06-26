@@ -16,25 +16,25 @@ const NavBar = () => {
 
   return (
     <>
-      <header className="row col-12 desk align">
+      <header className="row col-12 desk align" style={{position: 'fixed', backgroundColor: 'white', height: 75}}>
         <Link className="col-5 align linkHome" to="/">            
           <h1 className="nombre align">Logo</h1>
         </Link> 
         <div className="col-6 row linksContainers">     
           <Link to={'/'} onClick={() => scrollTo('proyectos')} className="col-3 links row align">
-              <h2 className="col-8 links">
+              <h3 className="col-8 links">
               Proyectos
-              </h2>
+              </h3>
           </Link>          
           <Link to={'/'} onClick={() => scrollTo('nosotros')} className="col-3 links row align">
-              <h2 className="col-8 links">
+              <h3 className="col-8 links">
               Nosotros
-              </h2>
+              </h3>
           </Link>    
           <Link to={'/'} onClick={() => scrollTo('contacto')} className="col-3 links row align">
-              <h2 className="col-8 links">
+              <h3 className="col-8 links">
               Contacto
-              </h2>
+              </h3>
           </Link>                                 
         </div>       
       </header>
