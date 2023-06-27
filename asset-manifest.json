@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/escalaReactWeb/static/css/main.36a70c4e.css",
-    "main.js": "/escalaReactWeb/static/js/main.3ba9c41c.js",
-    "static/media/img3.jpg": "/escalaReactWeb/static/media/img3.72f1e1304e10670bfbd2.jpg",
-    "static/media/img2.jpg": "/escalaReactWeb/static/media/img2.3642800ece6330d9dbf0.jpg",
-    "static/media/img1.jpg": "/escalaReactWeb/static/media/img1.a84da8a5c7177a2d740b.jpg",
-    "static/media/slick.svg": "/escalaReactWeb/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/escalaReactWeb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/escalaReactWeb/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/escalaReactWeb/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/escalaReactWeb/index.html",
-    "main.36a70c4e.css.map": "/escalaReactWeb/static/css/main.36a70c4e.css.map",
-    "main.3ba9c41c.js.map": "/escalaReactWeb/static/js/main.3ba9c41c.js.map"
+    "main.css": "/FranciscoSanchezArjona/static/css/main.12f88c51.css",
+    "main.js": "/FranciscoSanchezArjona/static/js/main.d8984831.js",
+    "static/media/img3.jpg": "/FranciscoSanchezArjona/static/media/img3.72f1e1304e10670bfbd2.jpg",
+    "static/media/img2.jpg": "/FranciscoSanchezArjona/static/media/img2.3642800ece6330d9dbf0.jpg",
+    "static/media/img1.jpg": "/FranciscoSanchezArjona/static/media/img1.a84da8a5c7177a2d740b.jpg",
+    "static/media/Jost-ExtraBold.ttf": "/FranciscoSanchezArjona/static/media/Jost-ExtraBold.08da980c2294d8d3acf2.ttf",
+    "static/media/Jost-Medium.ttf": "/FranciscoSanchezArjona/static/media/Jost-Medium.1b6c664635154e83201b.ttf",
+    "static/media/Jost-SemiBold.ttf": "/FranciscoSanchezArjona/static/media/Jost-SemiBold.ad5501d863045e1f91c0.ttf",
+    "static/media/Jost-Light.ttf": "/FranciscoSanchezArjona/static/media/Jost-Light.e0d047cb4d1055195353.ttf",
+    "static/media/Jost-Bold.ttf": "/FranciscoSanchezArjona/static/media/Jost-Bold.6871f373c04cc083b636.ttf",
+    "static/media/Jost-Thin.ttf": "/FranciscoSanchezArjona/static/media/Jost-Thin.2d69e49831a7cbce2447.ttf",
+    "static/media/slick.svg": "/FranciscoSanchezArjona/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FranciscoSanchezArjona/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FranciscoSanchezArjona/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FranciscoSanchezArjona/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FranciscoSanchezArjona/index.html",
+    "main.12f88c51.css.map": "/FranciscoSanchezArjona/static/css/main.12f88c51.css.map",
+    "main.d8984831.js.map": "/FranciscoSanchezArjona/static/js/main.d8984831.js.map"
   },
   "entrypoints": [
-    "static/css/main.36a70c4e.css",
-    "static/js/main.3ba9c41c.js"
+    "static/css/main.12f88c51.css",
+    "static/js/main.d8984831.js"
   ]
 }
