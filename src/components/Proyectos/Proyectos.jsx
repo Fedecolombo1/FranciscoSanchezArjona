@@ -15,7 +15,7 @@ function Proyectos() {
             data
             .filter(proyecto => proyecto.estado === "abierto")
             .map(proyecto => (
-              <Link to={'/proyecto/' + proyecto.id} className='col-4 imgCarrousel1' key={proyecto.id}>
+              <Link to={'/FranciscoSanchezArjona/proyecto/' + proyecto.id} className='col-4 imgCarrousel1' key={proyecto.id}>
                 <div className="image-container">
                   <img src={proyecto.imagenPrincipal} alt="" className="col-12" />
                   <div className="image-overlay">
@@ -32,7 +32,7 @@ function Proyectos() {
             data
             .filter(proyecto => proyecto.estado === "cerrado")
             .map(proyecto => (
-              <Link to={'/proyecto/' + proyecto.id} className='col-4 imgCarrousel1' key={proyecto.id}>
+              <Link to={'/FranciscoSanchezArjona/proyecto/' + proyecto.id} className='col-4 imgCarrousel1' key={proyecto.id}>
                 <div className="image-container">
                   <img src={proyecto.imagenPrincipal} alt="" className="col-12" />
                   {console.log(proyecto.imagenPrincipal)}

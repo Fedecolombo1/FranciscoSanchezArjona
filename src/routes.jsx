@@ -10,11 +10,11 @@ export default function Routes() {
   return (
     <Router>
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/FranciscoSanchezArjona/">
             <Home />
           </Route>             
         </Switch>
-        <Route path="/proyecto/:id">
+        <Route path="/FranciscoSanchezArjona/proyecto/:id">
             <Detalle />
         </Route>
     </Router>

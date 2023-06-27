@@ -17,21 +17,21 @@ const NavBar = () => {
   return (
     <>
       <header className="row col-12 desk align">
-        <Link className="col-5 align linkHome" to="/">            
+        <Link className="col-5 align linkHome" to="/FranciscoSanchezArjona">            
           <h1 className="nombre align">Logo</h1>
         </Link> 
         <div className="col-6 row linksContainers">     
-          <Link to={'/'} onClick={() => scrollTo('proyectos')} className="col-3 links row align">
+          <Link to={'/FranciscoSanchezArjona'} onClick={() => scrollTo('proyectos')} className="col-3 links row align">
               <h2 className="col-8 links">
               Proyectos
               </h2>
           </Link>          
-          <Link to={'/'} onClick={() => scrollTo('nosotros')} className="col-3 links row align">
+          <Link to={'/FranciscoSanchezArjona'} onClick={() => scrollTo('nosotros')} className="col-3 links row align">
               <h2 className="col-8 links">
               Nosotros
               </h2>
           </Link>    
-          <Link to={'/'} onClick={() => scrollTo('contacto')} className="col-3 links row align">
+          <Link to={'/FranciscoSanchezArjona'} onClick={() => scrollTo('contacto')} className="col-3 links row align">
               <h2 className="col-8 links">
               Contacto
               </h2>
@@ -51,14 +51,14 @@ const NavBar = () => {
               
               <ul className='row align' id="menu">                       
                 <Link
-                  to="/" className='col-11 row align' style={{marginTop: "40px"}}
+                  to="/FranciscoSanchezArjona" className='col-11 row align' style={{marginTop: "40px"}}
                 >                  
                   <li className="col-10 linkNav">Home</li>
                 </Link>
               </ul>
             </div>
           </nav>
-          <Link to="/" className="col-8 row align">
+          <Link to="/FranciscoSanchezArjona" className="col-8 row align">
             <h1 className="nombre col-6 align">Logo</h1>
           </Link>        
         </nav>        
