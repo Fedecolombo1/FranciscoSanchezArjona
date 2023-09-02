@@ -32,17 +32,21 @@ function Detalle() {
   return (
     <Page>   
       <div className="col-12 align row detalleContainer">
-        <div className="col-5 row">
-              <h3 className='col-12'>Informacion del proyecto</h3>
-              <p className="thin col-12">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci, repellat! Repellat autem aut suscipit repellendus consequuntur animi deleniti tempore cupiditate placeat natus amet veniam dolore, laudantium beatae. Quaerat, dolores eos.</p>
+        <div className="col-3 row">
               <h3 className='col-12'>Nombre del proyecto</h3>
               <p className="thin col-12">{proyecto.name}</p>
+              <h3 className='col-12'>Tipo de proyecto</h3>
+              <p className="thin col-12">{proyecto.name}</p>
+              <h3 className='col-12'>Año</h3>
+              <p className="thin col-12">2023</p>
               <h3 className='col-12'>Ubicacion</h3>
               <p className="thin col-12">+54 1122223333</p>
-              <h3 className='col-12'>Construccion</h3>
-              <p className="thin col-12">example@gmail.com</p>
+              <h3 className='col-12'>Superficie total</h3>
+              <p className="thin col-12">350 m2</p>
+              <h3 className='col-12'>Fotografía</h3>
+              <p className="thin col-12">@photolab</p>
             </div>  
-        <div className="col-7">
+        <div className="col-9">
           <Slider {...settings} className='col-12 sliderDetalle'>
             {
               proyecto.imagenes.map(img => {

@@ -1,6 +1,9 @@
 .detalleContainer{
     height: 90vh;
-    padding: 0% 10%;
+    padding: 0% 2%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
 }
 
 .sliderDetalle{

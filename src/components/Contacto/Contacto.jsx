@@ -1,4 +1,5 @@
 import React from 'react'
+import './Contacto.css'
 
 import { MapContainer, Marker, TileLayer } from 'react-leaflet';
 
@@ -17,7 +18,7 @@ function Contacto() {
             <p className="thin col-12">+54 9 11 4927-6688</p>
             <h3 className='col-12'>Mail</h3>
             <a href='mailto:estudio@franciscosanchezarjona.com'>
-              <p className="thin col-12">estudio@franciscosanchezarjona.com</p>
+              <p className="thin col-12 mailto">estudio@franciscosanchezarjona.com</p>
             </a>
             <div className="col-12">
               <a href="https://www.instagram.com/fsa.arquitectura/"  rel="noreferrer" target="_blank">

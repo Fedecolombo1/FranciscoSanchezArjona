@@ -4,7 +4,8 @@
 
 .image-container {
     position: relative;
-  }
+    overflow: hidden;
+}
   
 .image-overlay {
     position: absolute;
@@ -29,4 +30,22 @@
     color: white; /* Color del nombre de la imagen */
     font-size: 18px;
     margin: 0;
+}
+
+.image{
+    transition: 0.5s ease;
+    transform: scale(1.0);
+}
+
+.image:hover {
+    transform: scale(1.1);
+}
+
+.filtroProyectos{
+    cursor: pointer;
+    font-family: "Light";
+}
+
+.seleccionado{
+    font-family: "Medium";
 }
