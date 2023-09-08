@@ -1,131 +1,154 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-  font-family: 'Medium'
-}
-
-h1 { 
-  font-family: 'ExtraBold';
-}
-
-h2 { 
-  font-family: 'Bold';
-}
-
-h3 { 
-  font-family: 'Medium';
-}
-
-p {
-  font-family: 'Medium' 
-}
-
-p.thin { 
   font-family: 'Light'
 }
 
-p.ultralight {
+h1 {
+  font-family: 'Regular';
+}
+
+h2 {
+  font-family: 'Light';
+}
+
+h3 {
+  font-family: 'Light';
+}
+
+p {
   font-family: 'Thin'
 }
 
-.Titulo{
-  text-align: start;
-  margin-bottom: 20px;
-}
-.subTitulo{
-  text-align: start;
-  margin-top: 20px;
-  margin-bottom: 20px;
+p.thin {
+  font-family: 'Thin'
 }
 
-.align{
+p.ultralight {
+  font-family: 'ExtraLight'
+}
+
+.Titulo {
+  text-align: start;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-size: 46px;
+}
+
+.subTitulo {
+  text-align: start;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 26px;
+}
+
+.align {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.mobile{
+.mobile {
   display: flex !important;
 }
 
-.desk{
+.desk {
   display: none !important;
 }
 
 /* Estilos para la barra de desplazamiento */
 body::-webkit-scrollbar {
-  width: 8px; /* Ancho de la barra de desplazamiento */
+  width: 8px;
+  /* Ancho de la barra de desplazamiento */
 }
 
 body::-webkit-scrollbar-track {
-  background: #eaeaea; /* Color de fondo de la barra de desplazamiento */
+  background: #eaeaea;
+  /* Color de fondo de la barra de desplazamiento */
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #bdbdbd; /* Color del pulgar de la barra de desplazamiento */
-  border-radius: 4px; /* Borde redondeado del pulgar */
+  background-color: #bdbdbd;
+  /* Color del pulgar de la barra de desplazamiento */
+  border-radius: 4px;
+  /* Borde redondeado del pulgar */
 }
 
 body::-webkit-scrollbar-thumb:hover {
-  background-color: #b6b6b6; /* Color del pulgar al pasar el cursor sobre él */
+  background-color: #b6b6b6;
+  /* Color del pulgar al pasar el cursor sobre él */
 }
 
-a{
+a {
   color: black !important;
 }
 
 @media (min-width: 768px) {
-  html{
-      scroll-behavior: smooth !important;
+  html {
+    scroll-behavior: smooth !important;
   }
 
-  .mobile{
-      display: none !important;
+  .mobile {
+    display: none !important;
   }
 
-  .desk{
-      display: flex !important;
+  .desk {
+    display: flex !important;
   }
-  .Titulo{
-      text-align: start;
+
+  .Titulo {
+    text-align: start;
   }
-  .subTitulo{
-      text-align: start;
+
+  .subTitulo {
+    text-align: start;
   }
 }
 
 
 @font-face {
-  font-family: "Light";   
+  font-family: "Light";
   src: local("Jost-Light"),
-    url("/src/fonts/Jost-Light.ttf") format("truetype");
+    url("/src/assets/fonts/Jost-Light.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: "Medium";  
+  font-family: "Medium";
   src: local("Jost-Medium"),
-    url("/src/fonts/Jost-Medium.ttf") format("truetype");
+    url("/src/assets/fonts/Jost-Medium.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: "SemiBold";  
+  font-family: "SemiBold";
   src: local("Jost-SemiBold"),
-    url("/src/fonts/Jost-SemiBold.ttf") format("truetype");
+  url("/src/assets/fonts/Jost-SemiBold.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: "Bold";  
+  font-family: "Bold";
   src: local("Jost-Bold"),
-    url("/src/fonts/Jost-Bold.ttf") format("truetype");
+    url("/src/assets/fonts/Jost-Bold.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: "Thin";  
+  font-family: "Thin";
   src: local("Jost-Thin"),
-    url("/src/fonts/Jost-Thin.ttf") format("truetype");
+    url("/src/assets/fonts/Jost-Thin.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: "ExtraBold";  
+  font-family: "Regular";
+  src: local("Jost-Regular"),
+    url("/src/assets/fonts/Jost-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "ExtraBold";
   src: local("Jost-ExtraBold"),
-    url("/src/fonts/Jost-ExtraBold.ttf") format("truetype");
+    url("/src/assets/fonts/Jost-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "ExtraLight";
+  src: local("Jost-ExtraLight"),
+    url("/src/assets/fonts/Jost-ExtraLight.ttf") format("truetype");
 }

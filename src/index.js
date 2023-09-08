@@ -8,8 +8,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
     <Helmet>
-    <title>Francisco Sanchez Arjona</title>
-  </Helmet>
-  <Routes />
+      <title>Francisco Sanchez Arjona</title>
+    </Helmet>
+    <Routes />
   </>
 );

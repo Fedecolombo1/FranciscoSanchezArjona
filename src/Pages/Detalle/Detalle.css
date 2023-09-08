@@ -1,11 +1,18 @@
-.detalleContainer{
+.detalleContainer {
     height: 90vh;
     padding: 0% 2%;
+    margin: 0;
     display: flex;
     justify-content: space-between;
-    margin: 0;
 }
 
-.sliderDetalle{
-    
+.detalle {
+    justify-content: end;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 4%;
+    flex-direction: column;
+}
+
+.sliderDetalle {
 }

@@ -12,11 +12,11 @@ function Contacto() {
         <h1 className="Titulo">Contacto</h1>
         <div className="col-12 row align" style={{justifyContent: 'space-between', paddingBottom: '90px'}}>
           <div className="col-6 row">
-            <h3 className='col-12'>Direccion</h3>
+            <h2 className='col-12 subTitulo'>Direccion</h2>
             <p className="thin col-12">Av. del Puerto 615, Bahia Grande Nordelta, Provincia de Buenos Aires</p>
-            <h3 className='col-12'>Telefono</h3>
+            <h2 className='col-12 subTitulo'>Telefono</h2>
             <p className="thin col-12">+54 9 11 4927-6688</p>
-            <h3 className='col-12'>Mail</h3>
+            <h2 className='col-12 subTitulo'>Mail</h2>
             <a href='mailto:estudio@franciscosanchezarjona.com'>
               <p className="thin col-12 mailto">estudio@franciscosanchezarjona.com</p>
             </a>
