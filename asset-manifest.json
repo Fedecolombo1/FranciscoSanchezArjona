@@ -1,26 +1,40 @@
 {
   "files": {
-    "main.css": "/FranciscoSanchezArjona/static/css/main.f5b11547.css",
-    "main.js": "/FranciscoSanchezArjona/static/js/main.f46b199e.js",
-    "static/media/img3.jpg": "/FranciscoSanchezArjona/static/media/img3.72f1e1304e10670bfbd2.jpg",
+    "main.css": "/FranciscoSanchezArjona/static/css/main.f7a754f1.css",
+    "main.js": "/FranciscoSanchezArjona/static/js/main.d25100ca.js",
+    "static/media/Doral1.jpg": "/FranciscoSanchezArjona/static/media/Doral1.56f1810ba1c5614fd947.jpg",
+    "static/media/Quincho-2.jpg": "/FranciscoSanchezArjona/static/media/Quincho-2.fae4a4f64b76a7806cb6.jpg",
+    "static/media/Quincho-4.jpg": "/FranciscoSanchezArjona/static/media/Quincho-4.2331e83cd6788dc66a4b.jpg",
+    "static/media/Quincho-3.jpg": "/FranciscoSanchezArjona/static/media/Quincho-3.6ae1432e3608968722d1.jpg",
+    "static/media/Quincho1.jpg": "/FranciscoSanchezArjona/static/media/Quincho1.3716d2ac353c40ec0268.jpg",
+    "static/media/Apolo1.jpg": "/FranciscoSanchezArjona/static/media/Apolo1.33dcbb962870ac045d50.jpg",
+    "static/media/Sofietto.jpg": "/FranciscoSanchezArjona/static/media/Sofietto.c94611be8e9c39f39929.jpg",
+    "static/media/Caletta.jpg": "/FranciscoSanchezArjona/static/media/Caletta.cc468b6113cb6ee8cce5.jpg",
+    "static/media/Marinella.jpg": "/FranciscoSanchezArjona/static/media/Marinella.9af0ebc3d7793a8efa4e.jpg",
+    "static/media/Lamy.jpg": "/FranciscoSanchezArjona/static/media/Lamy.f321c66f4ac79c01c823.jpg",
+    "static/media/Apolo12.jpg": "/FranciscoSanchezArjona/static/media/Apolo12.4f89e951d0dde2985ad4.jpg",
+    "static/media/Apolo11.jpg": "/FranciscoSanchezArjona/static/media/Apolo11.4dbd30e1015f6da718c4.jpg",
     "static/media/img2.jpg": "/FranciscoSanchezArjona/static/media/img2.3642800ece6330d9dbf0.jpg",
+    "static/media/Logo.png": "/FranciscoSanchezArjona/static/media/Logo.8a1b5b41158494760074.png",
     "static/media/img1.jpg": "/FranciscoSanchezArjona/static/media/img1.a84da8a5c7177a2d740b.jpg",
     "static/media/Jost-ExtraBold.ttf": "/FranciscoSanchezArjona/static/media/Jost-ExtraBold.08da980c2294d8d3acf2.ttf",
+    "static/media/Jost-ExtraLight.ttf": "/FranciscoSanchezArjona/static/media/Jost-ExtraLight.9f3b0e719caf4540f04f.ttf",
     "static/media/Jost-Medium.ttf": "/FranciscoSanchezArjona/static/media/Jost-Medium.1b6c664635154e83201b.ttf",
     "static/media/Jost-SemiBold.ttf": "/FranciscoSanchezArjona/static/media/Jost-SemiBold.ad5501d863045e1f91c0.ttf",
     "static/media/Jost-Light.ttf": "/FranciscoSanchezArjona/static/media/Jost-Light.e0d047cb4d1055195353.ttf",
     "static/media/Jost-Bold.ttf": "/FranciscoSanchezArjona/static/media/Jost-Bold.6871f373c04cc083b636.ttf",
     "static/media/Jost-Thin.ttf": "/FranciscoSanchezArjona/static/media/Jost-Thin.2d69e49831a7cbce2447.ttf",
+    "static/media/Jost-Regular.ttf": "/FranciscoSanchezArjona/static/media/Jost-Regular.1efc84f2eaca6d0a4889.ttf",
     "static/media/slick.svg": "/FranciscoSanchezArjona/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/FranciscoSanchezArjona/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/FranciscoSanchezArjona/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/FranciscoSanchezArjona/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/FranciscoSanchezArjona/index.html",
-    "main.f5b11547.css.map": "/FranciscoSanchezArjona/static/css/main.f5b11547.css.map",
-    "main.f46b199e.js.map": "/FranciscoSanchezArjona/static/js/main.f46b199e.js.map"
+    "main.f7a754f1.css.map": "/FranciscoSanchezArjona/static/css/main.f7a754f1.css.map",
+    "main.d25100ca.js.map": "/FranciscoSanchezArjona/static/js/main.d25100ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5b11547.css",
-    "static/js/main.f46b199e.js"
+    "static/css/main.f7a754f1.css",
+    "static/js/main.d25100ca.js"
   ]
 }
